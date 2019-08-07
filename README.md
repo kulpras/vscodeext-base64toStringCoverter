@@ -1,6 +1,6 @@
-# b64tos README
+# VSCODE Extension to convert Base64 encoded string to utf-8 string. README
 
-This is the README for your extension "b64tos". After writing up a brief description, we recommend including the following sections.
+This is the README for extension "vscodeext-base64toStringCoverter".
 
 ## Features
 
